@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Julian</h1>
-<h3 align="center">I'm a University of Toronto graduate, currently learning programming at Seneca, and exploring the world of machine learning!</h3>
+<h3 align="center">I'm a University of Toronto graduate, currently learning programming at Seneca, and exploring the world of software engineering!</h3>
 
 <div>
 <a>
@@ -9,7 +9,7 @@
 
 - ⚙️I’m currently working on **Fraud Prediction Model 💰**
 
-- 📝I’m currently learning **C++, JavaScript, Oracle SQL**
+- 📝I’m currently learning **C++, Java, JavaScript, Oracle SQL**
 
 - 📫 How to reach me **juliantwn@gmail.com**
 
