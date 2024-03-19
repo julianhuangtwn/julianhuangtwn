@@ -1,11 +1,6 @@
 <h1 align="center">Hello 👋, I'm Julian</h1>
 <h3 align="center">I'm a University of Toronto graduate, currently learning programming at Seneca, and exploring the world of software engineering!</h3>
 
-<div>
-<a>
-<img align="right" src="https://furiirakun.com/wp/wp-content/uploads/2022/08/notePC_hito.gif" alt="guy.gif" width="273" height="207">
-</a>
-</div>
 
 - ⚙️I’m currently working on **Fraud Prediction Model 💰**
 
