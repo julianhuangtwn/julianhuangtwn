@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Julian</h1>
-<h3 align="center">I'm a University of Toronto graduate, currently learning programming at Seneca, and exploring the world of web development!</h3>
+<h3 align="center">I'm learning programming at Seneca, and exploring the world of web development!</h3>
 
 
 - ⚙️I just finished **Task API**
