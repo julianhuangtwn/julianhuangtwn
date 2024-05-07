@@ -1,14 +1,14 @@
 <h1 align="center">Hello 👋, I'm Julian</h1>
-<h3 align="center">I'm a University of Toronto graduate, currently learning programming at Seneca, and exploring the world of software engineering!</h3>
+<h3 align="center">I'm a University of Toronto graduate, currently learning programming at Seneca, and exploring the world of web development!</h3>
 
 
-- ⚙️I’m currently working on **Fraud Prediction Model 💰**
+- ⚙️I just finished **Task API**
 
-- 📝I’m currently learning **C++, Java, JavaScript, Oracle SQL**
+- 📝I’m currently learning **C++, Java, JavaScript**
 
 - 📫 How to reach me **juliantwn@gmail.com**
 
-- 🪐 Fun fact **I've watched Interstellar 15 times**
+- 🪐 Fun fact **I've watched Interstellar 20 times**
 
 <h3 align="left">Connect with me:</h3>
 
