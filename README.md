@@ -4,7 +4,7 @@
 
 - ⚙️I just finished **Task API**
 
-- 📝I’m currently learning **C++, Java, JavaScript**
+- 📝I’m currently learning **JavaScript, Tailwind CSS, React.js, Next.js, MySQL**
 
 - 📫 How to reach me **juliantwn@gmail.com**
 
